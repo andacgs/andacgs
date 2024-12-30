@@ -6,6 +6,8 @@ Pursuing my Bachelor's degree.
 
 I love coding from the ground up and diving into the deeper aspects of the financial and technological world.
 
+Currently working on my own crypto currency, implementing everything from scratch in c++.
+
 ## 🌐 Languages
 <div style="display: flex; gap: 15px; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40">
