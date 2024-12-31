@@ -6,7 +6,7 @@ Pursuing my Bachelor's degree.
 
 I love coding from the ground up and diving into the deeper aspects of the financial and technological world.
 
-Currently working on my own crypto currency, implementing everything from scratch in c++.
+Currently working on my own layer one blockchain, implementing everything from scratch in c++.
 
 ## 🌐 Languages
 <div style="display: flex; gap: 15px; align-items: center;">
