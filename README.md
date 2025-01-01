@@ -28,9 +28,9 @@ Let's build something amazing together!
   
   - fluent in german, english and turkish
   
-  - hitting the gym alot
+  - i generally have my projects in private repos
     
-  - enjoy reading books
+  - i enjoy dwelving in books and hitting the gym
 
   - call me AGS, my full name is rather unusual to pronounce
 </details>
