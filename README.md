@@ -33,5 +33,9 @@ Let's build something amazing together!
   - i enjoy dwelving in books and hitting the gym
 
   - call me AGS, my full name is rather unusual to pronounce
+
+  - i use neovim btw
+
+  - i installed arch btw
 </details>
 
